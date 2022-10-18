@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <titulo>Arquivos</titulo>
+    <signo>
+        <cod_signo>001</cod_signo>
+        <data_ini>03-21</data_ini>
+        <data_fim>04-20</data_fim>
+        <nome_signo>Áries</nome_signo>
+        <horoscopo>
+            Seu signo é Áries !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>002</cod_signo>
+        <data_ini>04-21</data_ini>
+        <data_fim>05-20</data_fim>
+        <nome_signo>Touro</nome_signo>
+        <horoscopo>
+           Seu signo é Touro !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>003</cod_signo>
+        <data_ini>05-21</data_ini>
+        <data_fim>06-20</data_fim>
+        <nome_signo>Gêmeos</nome_signo>
+        <horoscopo>
+            Seu signo é Gêmeos !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>004</cod_signo>
+        <data_ini>06-21</data_ini>
+        <data_fim>07-20</data_fim>
+        <nome_signo>Câncer</nome_signo>
+        <horoscopo>
+           Seu signo é Câncer !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>005</cod_signo>
+        <data_ini>07-21</data_ini>
+        <data_fim>08-20</data_fim>
+        <nome_signo>Leão</nome_signo>
+        <horoscopo>
+           Seu signo é Leão !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>006</cod_signo>
+        <data_ini>08-21</data_ini>
+        <data_fim>09-20</data_fim>
+        <nome_signo>Virgem</nome_signo>
+        <horoscopo>
+           Seu signo é Virgem !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>007</cod_signo>
+        <data_ini>09-21</data_ini>
+        <data_fim>10-20</data_fim>
+        <nome_signo>Libra</nome_signo>
+        <horoscopo>
+           Seu signo é Libra !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>008</cod_signo>
+        <data_ini>10-21</data_ini>
+        <data_fim>11-20</data_fim>
+        <nome_signo>Escorpião</nome_signo>
+        <horoscopo>
+           Seu signo é Escorpião !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>009</cod_signo>
+        <data_ini>11-21</data_ini>
+        <data_fim>12-20</data_fim>
+        <nome_signo>Sagitário</nome_signo>
+        <horoscopo>
+            Seu signo é Sagitário !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>010</cod_signo>
+        <data_ini>12-21</data_ini>
+        <data_fim>01-20</data_fim>
+        <nome_signo>Capricórnio</nome_signo>
+        <horoscopo>
+            Seu signo é Capricórnio !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>011</cod_signo>
+        <data_ini>01-21</data_ini>
+        <data_fim>02-20</data_fim>
+        <nome_signo>Aquário</nome_signo>
+        <horoscopo>
+           Seu signo é Aquário !!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>012</cod_signo>
+        <data_ini>02-21</data_ini>
+        <data_fim>03-20</data_fim>
+        <nome_signo>Peixes</nome_signo>
+        <horoscopo>
+            Seu signo é Peixes !!
+        </horoscopo>
+    </signo>
+</signos>
